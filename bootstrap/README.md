@@ -9,5 +9,5 @@ platform
 
 | Project                 | Platform      | Language  |
 | ----------------------  |:-------------:| -----:|
-| cpp-automake-clie-exe      | autoconf   | C/C++ |
-
+| cpp-automake-cli-exe      | autoconf   | C/C++ |
+| cpp-make-cli-exe        | make         | C/C++ |
