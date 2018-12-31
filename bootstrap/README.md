@@ -7,7 +7,8 @@ project.
 
 platform
 
-| Project                 | Platform      | Language  |
-| ----------------------  |:-------------:| -----:|
-| cpp-automake-cli-exe      | autoconf   | C/C++ |
+| Project                 | Platform     | Language  |
+| ----------------------  |:------------:| -----:|
+| cpp-automake-cli-exe    | autoconf     | C/C++ |
 | cpp-make-cli-exe        | make         | C/C++ |
+| java-make-cli-exe       | make         | Java  |
