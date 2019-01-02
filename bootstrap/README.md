@@ -7,8 +7,10 @@ project.
 
 platform
 
-| Project                 | Platform     | Language  |
-| ----------------------  |:------------:| -----:|
-| cpp-automake-cli-exe    | autoconf     | C/C++ |
-| cpp-make-cli-exe        | make         | C/C++ |
-| java-make-cli-exe       | make         | Java  |
+| Project                 | Platform     | Language  | Test Framework |
+| ----------------------  |:------------:| -----:| ------------------ |
+| cpp-automake-cli-exe    | autoconf     | C/C++ | none |
+| cpp-make-cli-exe        | make         | C/C++ | none |
+| cpp-make-cli-exe-cppunit        | make         | C/C++ | cppunit |
+| cpp-make-cli-exe-gtest        | make         | C/C++ | gtest |
+| java-make-cli-exe       | make         | Java  | none |
